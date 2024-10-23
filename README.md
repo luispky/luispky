@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Luis Fernando Palacios</h1>
+<h1 align="center">Hi there 🖖, I'm Luis</h1>
 <h3 align="center">I am a Data Science and Artificial Intelligence student @ the University of Trieste, Italy.</h3>
 
 - 👨‍💻 All of my projects are available at [github.com/luispky](github.com/luispky)
