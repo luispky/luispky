@@ -1,9 +1,5 @@
 <h1 align="center">Hi there 🖖, I'm Luis</h1>
-<h3 align="center">I am a Data Science and Artificial Intelligence student @ the University of Trieste, Italy.</h3>
-
-- 👨‍💻 All of my projects are available at [github.com/luispky](github.com/luispky)
-
-- 📫 How to reach me **lf.palaciosf@gmail.com**
+<h3 align="center">I am a Data Science and Artificial Intelligence student @ <a href="https://x.com/UniTrieste">University of Trieste</a>, Italy.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
