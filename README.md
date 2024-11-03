@@ -25,7 +25,10 @@
     </a> 
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-    </a> 
+    </a>
+    <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> 
+        <img src="https://www.r-project.org/logo/Rlogo.svg" alt="R" width="40" height="40"/> 
+    </a>
     <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> 
     </a> 
@@ -36,9 +39,12 @@
         <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> 
     </a>
     <a href="https://fortran-lang.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Fortran_logo.svg" alt="fortran" width="40" height="40"/> 
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Fortran_logo.svg/640px-Fortran_logo.svg.png" alt="fortran" width="40" height="40"/> 
     </a>
     <a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer"> 
-        <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/MATLAB_Logo.png" alt="matlab" width="40" height="40"/> 
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/640px-Matlab_Logo.png" alt="matlab" width="40" height="40"/> 
+    </a>
+        <a href="https://www.overleaf.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Overleaf_Logo.svg/640px-Overleaf_Logo.svg.png" alt="Overleaf" width="40" height="40"/> 
     </a>
 </p>
