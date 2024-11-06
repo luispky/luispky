@@ -47,4 +47,7 @@
         <a href="https://www.overleaf.com/" target="_blank" rel="noreferrer"> 
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Overleaf_Logo.svg/640px-Overleaf_Logo.svg.png" alt="Overleaf" width="40" height="40"/> 
     </a>
+     <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/640px-Bash_Logo_Colored.svg.png" alt="bash" width="40" height="40"/> 
+    </a>
 </p>
