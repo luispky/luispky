@@ -2,8 +2,8 @@
 
 ## 📚 My Background
 
-- Bachelor's Degree in **Physics** @ [National Polytechnic School](https://x.com/epnecuador), Ecuador.
-- Currently, I am a **Data Science and Artificial Intelligence (DSAI)** Master's student @ [University of Trieste](https://x.com/UniTrieste), Italy.
+- Bachelor's Degree in **Physics** ⚛️ @ [National Polytechnic School](https://x.com/epnecuador), Ecuador 🇪🇨.
+- Currently, I am a **Data Science and Artificial Intelligence (DSAI)** 👨‍💻🤖 Master's student @ [University of Trieste](https://x.com/UniTrieste), Italy 🇮🇹.
 
 ## 💻 Languages and Tools
 
